@@ -1,0 +1,8 @@
+streamlit
+fastmcp
+ollama
+numpy
+scipy
+librosa
+soundfile
+matplotlib
